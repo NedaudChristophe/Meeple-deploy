@@ -1,9 +1,0 @@
-//! -------------------ACTION POUR MIDDLEWARES ---------------------------------------
-
-//! BRICOLAGE
-
-//! COMMENTAIRE pour comprendre a quoi sert le applymiddleware et son parent? le composeenhancers console.log(applyMiddleware);
-
-//! attention, IL faut obligatoirement nommé les const exactement comme dans le stat
-
-//! attention, grace a ce syteme on peut renommer la ligne du state comme on le veut, mais on ne peut appeler qu'une "ligne" par selector 
